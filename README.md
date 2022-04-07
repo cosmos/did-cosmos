@@ -1,1 +1,1 @@
-# cosmos-did
+# DID Cosmos
